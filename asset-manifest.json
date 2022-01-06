@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Bfinnal-web-project%7D/static/css/main.eb6093e1.chunk.css",
+    "main.js": "/%7Bfinnal-web-project%7D/static/js/main.f696926e.chunk.js",
+    "main.js.map": "/%7Bfinnal-web-project%7D/static/js/main.f696926e.chunk.js.map",
+    "runtime-main.js": "/%7Bfinnal-web-project%7D/static/js/runtime-main.f7d02fb3.js",
+    "runtime-main.js.map": "/%7Bfinnal-web-project%7D/static/js/runtime-main.f7d02fb3.js.map",
+    "static/js/2.258d85d4.chunk.js": "/%7Bfinnal-web-project%7D/static/js/2.258d85d4.chunk.js",
+    "static/js/2.258d85d4.chunk.js.map": "/%7Bfinnal-web-project%7D/static/js/2.258d85d4.chunk.js.map",
+    "index.html": "/%7Bfinnal-web-project%7D/index.html",
+    "static/css/main.eb6093e1.chunk.css.map": "/%7Bfinnal-web-project%7D/static/css/main.eb6093e1.chunk.css.map",
+    "static/js/2.258d85d4.chunk.js.LICENSE.txt": "/%7Bfinnal-web-project%7D/static/js/2.258d85d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7d02fb3.js",
+    "static/js/2.258d85d4.chunk.js",
+    "static/css/main.eb6093e1.chunk.css",
+    "static/js/main.f696926e.chunk.js"
+  ]
+}
