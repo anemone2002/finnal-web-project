@@ -1,13 +1,9 @@
 import "./Footer.css"
-
-
-
-function Footer() {
-    return (
-      <div class="footer">
-        <h1 class="text"> 2021 Ala-Too International University</h1>
-      </div>
-    );
-  }
-  
-  export default Footer;
+function Footer () {
+  return(
+    <footer>
+      <h1 className="text">2022 MAT20/Alina Bakytbek/Akbiike Toktosunova</h1>
+    </footer>
+  )
+}
+export default Footer

@@ -1,11 +1,17 @@
-.title{
-
-    color: white;
-    font-size: 50px;
-}
-.header{
-    display: flex;
+header{
+    margin: 20px;
+    padding-top: 10px ;
+    padding-left: 20px;
+    padding-bottom: 45px;
     background-color: #2d2652;
-    justify-content: space-around;
-    align-items: center;
+    
+}
+.anime-base{
+    color: #AAA;
+	font-size: 36px;
+	font-weight: 400;
+	text-align: center;
+}
+.strong{
+    color: #ffff;
 }
